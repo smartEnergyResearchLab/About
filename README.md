@@ -6,7 +6,7 @@ A guide to SERL on github
 ### Observatory (latest update: August 2020)
 
  * Data: Smart Energy Research Lab [Observatory Data, 2019-2020: Secure Access](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8666)
- * **Coming soon** R package: [serlObservatoryData](https://github.com/smartEnergyResearchLab/observatoryData)
+ * R package: [serlObservatoryData](https://github.com/smartEnergyResearchLab/observatoryData) **Coming soon**
 
 ### Pilot (April 2020)
 

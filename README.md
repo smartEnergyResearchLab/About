@@ -26,5 +26,5 @@ We are using github to:
 We use repo issues to collect feedback:
 
  * feedback on these [about](https://github.com/smartEnergyResearchLab/about/issues) pages
- * feedback on the Observatory data [documentation](https://github.com/smartEnergyResearchLab/observatoryData/issues?q=is%3Aissue+is%3Aopen+label%3Adocumentation)
- * feedback on the Observatory data R package
+ * feedback on the Observatory data [documentation](https://github.com/smartEnergyResearchLab/observatoryData/labels/documentation)
+ * feedback on the Observatory data [R package](https://github.com/smartEnergyResearchLab/observatoryData/labels/R%20Package)

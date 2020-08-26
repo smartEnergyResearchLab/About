@@ -8,6 +8,6 @@ A guide to SERL on github
  * Data: https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8666
  * R package: https://github.com/smartEnergyResearchLab/observatoryData
 
-### Pilot
+### Pilot (April 2020)
 
  * Data: https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8643

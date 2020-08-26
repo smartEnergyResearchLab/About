@@ -1,5 +1,5 @@
 # About SERL
-A guide to SERL on github
+The [Smart Energy Research Lab](https://serl.ac.uk/) (SERL) will provide a secure, consistent and trusted channel for researchers to access high-resolution energy data, which will facilitate innovative energy research for years to come.
 
 ## Data releases
 

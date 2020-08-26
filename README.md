@@ -1,5 +1,7 @@
 # About SERL
-The [Smart Energy Research Lab](https://serl.ac.uk/) (SERL) will provide a secure, consistent and trusted channel for researchers to access high-resolution energy data, which will facilitate innovative energy research for years to come.
+The [Smart Energy Research Lab](https://serl.ac.uk/) (SERL) will provide a secure, consistent and trusted channel for researchers to access high-resolution energy data, which will facilitate innovative energy research for years to come. SERL is [funded](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/P032761/1) by the UK's [Engineering and Physical Sciences Research Council](https://epsrc.ukri.org) (EPSRC) and comprises a [consortium](https://serl.ac.uk/about-serl/) of seven UK universities and the Energy Saving Trust.
+
+Our initial work programme focuses on establishing a Smart Energy Observatory of ~10,000 smart metered households across Great Britain.
 
 ## SERL on github
 We are using github to:

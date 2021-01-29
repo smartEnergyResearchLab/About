@@ -20,7 +20,7 @@ We are using github to:
 ### Observatory Data
 
  * Data: Smart Energy Research Lab [Observatory Data, 2019-2020: Secure Access](http://doi.org/10.5255/UKDA-SN-8666-2)
- * R package: [serlObservatoryData](https://github.com/smartEnergyResearchLab/observatoryData) (**Coming soon**)
+ * R package: (**Coming soon**)
 
 ### Exploratory Data
 The Smart Energy Research Lab Exploratory Data, 2019-2020 is an initial part of the SERL project and for use by SERL researchers to conduct exploratory analysis ahead of provisioning SERL data to the wider academic research community.

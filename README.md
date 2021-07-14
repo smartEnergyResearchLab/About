@@ -35,10 +35,8 @@ The Smart Energy Research Lab Exploratory Data, 2019-2020 is an initial part of 
 
 We use repo issues to collect feedback:
 
- * feedback on these [about](https://github.com/smartEnergyResearchLab/about/issues) pages
- * feedback on the Observatory data [documentation]
- <!--- when live: https://github.com/smartEnergyResearchLab/observatoryData/labels/documentation --->
- * feedback on the Observatory data [R package]
- <!--- when live: https://github.com/smartEnergyResearchLab/observatoryData/labels/R%20Package --->
+ * feedback on these [about](https://github.com/smartEnergyResearchLab/About/issues) pages
+ * feedback on the Observatory data [documentation](https://github.com/smartEnergyResearchLab/observatoryData/labels/documentation)
+ * feedback on the Observatory data [R package](https://github.com/smartEnergyResearchLab/seRl/issues)
 
 

@@ -29,7 +29,7 @@ The Smart Energy Research Lab Exploratory Data, 2019-2020 is an initial part of 
 
 ## Tools
 
- * seRl [R package](https://github.com/smartEnergyResearchLab/seRl) (**Coming soon**)
+ * seRl [R package](https://github.com/smartEnergyResearchLab/seRl)
 
 ## Feedback
 

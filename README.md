@@ -19,7 +19,9 @@ We are using github to:
 
 ### Observatory Data
 
- * Data: Smart Energy Research Lab [Observatory Data, 2019-2020: Secure Access](http://doi.org/10.5255/UKDA-SN-8666-2)
+ * Data: Smart Energy Research Lab Observatory Data, 2019-2020: Secure Access
+    * [Edition 2](http://doi.org/10.5255/UKDA-SN-8666-2) - data up to and including 31 October 2020, which includes participant households recruited in Waves 1 and 2 (~ 4,671 households)
+    * [Edition 1](http://doi.org/10.5255/UKDA-SN-8666-1) - initial release of Wave 1 recruitment (~ 1,700 households)
  * Pre-processing [code](https://github.com/smartEnergyResearchLab/observatoryData)
 
 ### Exploratory Data

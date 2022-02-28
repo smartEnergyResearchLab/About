@@ -3,7 +3,7 @@ The [Smart Energy Research Lab](https://serl.ac.uk/) (SERL) provides a secure, c
 
 Our initial work programme focuses on:
 
- * establishing a Smart Energy [Observatory](https://serl.ac.uk/researchers/) of ~10,000 smart metered households across Great Britain;
+ * establishing a _Smart Energy [Observatory](https://serl.ac.uk/researchers/)_ of ~10,000 smart metered households across Great Britain;
  * using the _Smart Energy Observatory_ to conduct [novel energy use research](https://serl.ac.uk/projects/);
  * developing a mechanism for other researchers to access smart meter data for [other household samples](https://serl.ac.uk/wp-content/uploads/2020/07/SERL-laboratory-user-summary-v03.pdf) from whom they have obtained informed consent.
 

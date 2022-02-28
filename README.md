@@ -11,7 +11,7 @@ Our initial work programme focuses on:
 
 ### Observatory Data
 
- * Data: Smart Energy Research Lab Observatory Data, 2019-2020: Secure Access
+ * Data: _[Smart Energy Research Lab Observatory Data, 2019-2020: Secure Access](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8666)_
     * [Edition 4](http://doi.org/10.5255/UKDA-SN-8666-4) - 11 October 2021: all SERL data up to and including 31 May 2021, which includes participant households recruited in Waves 1, 2 and 3 (~ 10,000+ households)
     * [Edition 3](http://doi.org/10.5255/UKDA-SN-8666-3) - 26 April 2021: all SERL data up to and including 31 October 2020, which includes participant households recruited in Waves 1 and 2 (~ 4,671 households)
     * [Edition 2](http://doi.org/10.5255/UKDA-SN-8666-2) - 19 November 2020: Change of citation
@@ -19,7 +19,7 @@ Our initial work programme focuses on:
  * Pre-processing [code](https://github.com/smartEnergyResearchLab/observatoryData)
 
 ### Exploratory Data
-The Smart Energy Research Lab Exploratory Data, 2019-2020 is an initial part of the SERL project and for use by SERL researchers to conduct exploratory analysis ahead of provisioning SERL data to the wider academic research community.
+In addition to the Observatory data, the Smart Energy Research Lab Exploratory Data, 2019-2020 was an initial part of the SERL project and for use by SERL researchers to conduct exploratory analysis ahead of provisioning SERL data to the wider academic research community.
 
  * Data: Smart Energy Research Lab [Exploratory Data, 2019-2020: Secure Access](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8643)
 
